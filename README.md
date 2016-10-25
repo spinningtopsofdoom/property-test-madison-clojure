@@ -2,6 +2,8 @@
 
 This repo contains a presentation and example code for property based testing with [test.check](https://github.com/clojure/test.check)
 
+The slides are in the `slides` directory
+
 ## Examples
 
 All examples are to be run in the REPL
